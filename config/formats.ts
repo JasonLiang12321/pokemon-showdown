@@ -33,6 +33,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		bestOfDefault: true,
 		ruleset: ['PotD', 'Obtainable', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Illusion Level Mod'],
 	},
+	
 	{
 		name: "[Gen 9] Unrated Random Battle",
 		mod: 'gen9',
@@ -167,6 +168,15 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 
 	{
 		section: "S/V Doubles",
+	},
+	{
+		name: "[Gen 9] Random VGC Battle",
+		desc: `Randomized teams of Pok&eacute;mon with sets that are generated to be competitively viable, following VGC rules.`,
+		mod:'gen9',
+		team:'random',
+		bestOfDefault: true,
+		gameType: 'doubles',
+		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 9', 'VGC Timer', 'Open Team Sheets']
 	},
 	{
 		name: "[Gen 9] Random Doubles Battle",
