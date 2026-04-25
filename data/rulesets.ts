@@ -245,7 +245,7 @@ export const Rulesets: import('../sim/dex-formats').FormatDataTable = {
 			// repealing this will not actually let you USE multiple moves, because of a cart bug:
 			// https://twitter.com/DaWoblefet/status/1396217830006132737
 			if (set.moves) {
-				const hasMove: { [k: string]: true } = {};
+				const hasMove: { [k: string]: true; } = {};
 				for (const moveId of set.moves) {
 					const move = this.dex.moves.get(moveId);
 					const moveid = move.id;
@@ -883,7 +883,7 @@ export const Rulesets: import('../sim/dex-formats').FormatDataTable = {
 		onValidateTeam(team) {
 			if (this.format.id === 'gen8multibility') return;
 			const abilityTable = new this.dex.Multiset<string>();
-			const base: { [k: string]: string } = {
+			const base: { [k: string]: string; } = {
 				airlock: 'cloudnine',
 				armortail: 'queenlymajesty',
 				battlearmor: 'shellarmor',
@@ -2337,7 +2337,7 @@ export const Rulesets: import('../sim/dex-formats').FormatDataTable = {
 		},
 		onModifySpecies(species, target, source, effect) {
 			if (!species.baseStats) return;
-			const boosts: { [tier: string]: number } = {
+			const boosts: { [tier: string]: number; } = {
 				uu: 15,
 				rubl: 15,
 				ru: 20,
@@ -2575,76 +2575,76 @@ export const Rulesets: import('../sim/dex-formats').FormatDataTable = {
 			}
 
 			switch (move.id) {
-			case 'doomdesire': {
-				move.onTry = function (source, subtarget) {
-					if (!subtarget.side.addSlotCondition(subtarget, 'futuremove')) return false;
-					Object.assign(subtarget.side.slotConditions[subtarget.position]['futuremove'], {
-						move: 'doomdesire',
-						source,
-						moveData: {
-							id: 'doomdesire',
-							name: "Doom Desire",
-							accuracy: 100,
-							basePower: 140,
-							category: "Physical",
-							priority: 0,
-							flags: { futuremove: 1 },
-							effectType: 'Move',
-							type: 'Steel',
-						},
-					});
-					this.add('-start', source, 'Doom Desire');
-					return this.NOT_FAIL;
-				};
-				break;
-			}
-			case 'futuresight': {
-				move.onTry = function (source, subtarget) {
-					if (!subtarget.side.addSlotCondition(subtarget, 'futuremove')) return false;
-					Object.assign(subtarget.side.slotConditions[subtarget.position]['futuremove'], {
-						duration: 3,
-						move: 'futuresight',
-						source,
-						moveData: {
-							id: 'futuresight',
-							name: "Future Sight",
-							accuracy: 100,
-							basePower: 120,
-							category: "Physical",
-							priority: 0,
-							flags: { futuremove: 1 },
-							ignoreImmunity: false,
-							effectType: 'Move',
-							type: 'Psychic',
-						},
-					});
-					this.add('-start', source, 'move: Future Sight');
-					return this.NOT_FAIL;
-				};
-				break;
-			}
-			// Moves with dynamic categories will always be physical if not special-cased
-			case 'lightthatburnsthesky':
-			case 'photongeyser': {
-				move.category = 'Special';
-				if (pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true)) move.category = 'Physical';
-				break;
-			}
-			case 'shellsidearm': {
-				if (!target) return;
-				move.category = 'Special';
-				const atk = pokemon.getStat('atk', false, true);
-				const spa = pokemon.getStat('spa', false, true);
-				const def = target.getStat('def', false, true);
-				const spd = target.getStat('spd', false, true);
-				const physical = Math.floor(Math.floor(Math.floor(Math.floor(2 * pokemon.level / 5 + 2) * 90 * atk) / def) / 50);
-				const special = Math.floor(Math.floor(Math.floor(Math.floor(2 * pokemon.level / 5 + 2) * 90 * spa) / spd) / 50);
-				if (physical > special || (physical === special && this.randomChance(1, 2))) {
-					move.category = 'Physical';
-					move.flags.contact = 1;
+				case 'doomdesire': {
+					move.onTry = function (source, subtarget) {
+						if (!subtarget.side.addSlotCondition(subtarget, 'futuremove')) return false;
+						Object.assign(subtarget.side.slotConditions[subtarget.position]['futuremove'], {
+							move: 'doomdesire',
+							source,
+							moveData: {
+								id: 'doomdesire',
+								name: "Doom Desire",
+								accuracy: 100,
+								basePower: 140,
+								category: "Physical",
+								priority: 0,
+								flags: { futuremove: 1 },
+								effectType: 'Move',
+								type: 'Steel',
+							},
+						});
+						this.add('-start', source, 'Doom Desire');
+						return this.NOT_FAIL;
+					};
+					break;
 				}
-				break;
-			}
+				case 'futuresight': {
+					move.onTry = function (source, subtarget) {
+						if (!subtarget.side.addSlotCondition(subtarget, 'futuremove')) return false;
+						Object.assign(subtarget.side.slotConditions[subtarget.position]['futuremove'], {
+							duration: 3,
+							move: 'futuresight',
+							source,
+							moveData: {
+								id: 'futuresight',
+								name: "Future Sight",
+								accuracy: 100,
+								basePower: 120,
+								category: "Physical",
+								priority: 0,
+								flags: { futuremove: 1 },
+								ignoreImmunity: false,
+								effectType: 'Move',
+								type: 'Psychic',
+							},
+						});
+						this.add('-start', source, 'move: Future Sight');
+						return this.NOT_FAIL;
+					};
+					break;
+				}
+				// Moves with dynamic categories will always be physical if not special-cased
+				case 'lightthatburnsthesky':
+				case 'photongeyser': {
+					move.category = 'Special';
+					if (pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true)) move.category = 'Physical';
+					break;
+				}
+				case 'shellsidearm': {
+					if (!target) return;
+					move.category = 'Special';
+					const atk = pokemon.getStat('atk', false, true);
+					const spa = pokemon.getStat('spa', false, true);
+					const def = target.getStat('def', false, true);
+					const spd = target.getStat('spd', false, true);
+					const physical = Math.floor(Math.floor(Math.floor(Math.floor(2 * pokemon.level / 5 + 2) * 90 * atk) / def) / 50);
+					const special = Math.floor(Math.floor(Math.floor(Math.floor(2 * pokemon.level / 5 + 2) * 90 * spa) / spd) / 50);
+					if (physical > special || (physical === special && this.randomChance(1, 2))) {
+						move.category = 'Physical';
+						move.flags.contact = 1;
+					}
+					break;
+				}
 			}
 		},
 	},

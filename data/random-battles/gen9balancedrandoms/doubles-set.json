@@ -1,0 +1,3557 @@
+{
+  "regulation": "svi",
+  "limitlessFormat": "svi",
+  "generatedAt": "2026-04-25T05:10:27.861Z",
+  "teams": [
+    {
+      "teamId": 6147,
+      "team": [
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Spore",
+            "Rage Powder",
+            "Pollen Puff",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fairy",
+          "moves": [
+            "Glacial Lance",
+            "Leech Seed",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Mystic Water",
+          "teraType": "Grass",
+          "moves": [
+            "Water Spout",
+            "Origin Pulse",
+            "Hydro Pump",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Fairy",
+          "moves": [
+            "Icy Wind",
+            "Moonblast",
+            "Shadow Ball",
+            "Taunt"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Scarf",
+          "teraType": "Ghost",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "U-turn",
+            "Coaching"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6165,
+      "team": [
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "Flare Blitz",
+            "Knock Off",
+            "Fake Out",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Electric Seed",
+          "teraType": "Fairy",
+          "moves": [
+            "Moongeist Beam",
+            "Moonblast",
+            "Wide Guard",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Dark",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Encore",
+            "Taunt"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Band",
+          "teraType": "Ghost",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Ursaluna",
+          "item": "Flame Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Facade",
+            "Headlong Rush",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Dazzling Gleam"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6153,
+      "team": [
+        {
+          "name": "Incineroar",
+          "item": "Safety Goggles",
+          "teraType": "Water",
+          "moves": [
+            "Flare Blitz",
+            "U-turn",
+            "Helping Hand",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Ting-Lu",
+          "item": "Leftovers",
+          "teraType": "Fairy",
+          "moves": [
+            "Protect",
+            "Throat Chop",
+            "Ruination",
+            "Sand Tomb"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Normal",
+          "moves": [
+            "Protect",
+            "Nasty Plot",
+            "Psychic",
+            "Astral Barrage"
+          ]
+        },
+        {
+          "name": "Clefairy",
+          "item": "Eviolite",
+          "teraType": "Grass",
+          "moves": [
+            "Protect",
+            "Follow Me",
+            "Life Dew",
+            "Helping Hand"
+          ]
+        },
+        {
+          "name": "Koraidon",
+          "item": "Clear Amulet",
+          "teraType": "Fire",
+          "moves": [
+            "Protect",
+            "Flame Charge",
+            "Flare Blitz",
+            "Collision Course"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Fairy",
+          "moves": [
+            "Protect",
+            "Taunt",
+            "Icy Wind",
+            "Moonblast"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4465,
+      "team": [
+        {
+          "name": "Kyogre",
+          "item": "Mystic Water",
+          "teraType": "Grass",
+          "moves": [
+            "Origin Pulse",
+            "Protect",
+            "Hydro Pump",
+            "Water Spout"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wood Hammer",
+            "U-turn",
+            "Grassy Glide",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Scarf",
+          "teraType": "Ghost",
+          "moves": [
+            "Surging Strikes",
+            "Aqua Jet",
+            "U-turn",
+            "Close Combat"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Fairy",
+          "moves": [
+            "Moonblast",
+            "Icy Wind",
+            "Shadow Ball",
+            "Taunt"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Rage Powder",
+            "Pollen Puff",
+            "Spore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Leftovers",
+          "teraType": "Fairy",
+          "moves": [
+            "Glacial Lance",
+            "Trick Room",
+            "Leech Seed",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4314,
+      "team": [
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Leftovers",
+          "teraType": "Water",
+          "moves": [
+            "Glacial Lance",
+            "Leech Seed",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Landorus",
+          "item": "Life Orb",
+          "teraType": "Poison",
+          "moves": [
+            "Sandsear Storm",
+            "Earth Power",
+            "Sludge Bomb",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Scarf",
+          "teraType": "Water",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "item": "Electric Seed",
+          "teraType": "Ground",
+          "moves": [
+            "Psychic",
+            "Trick Room",
+            "Helping Hand",
+            "Foul Play"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Electro Drift",
+            "Dazzling Gleam",
+            "Volt Switch",
+            "Draco Meteor"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "Flare Blitz",
+            "Knock Off",
+            "U-turn",
+            "Fake Out"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4256,
+      "team": [
+        {
+          "name": "Brute Bonnet",
+          "item": "Covert Cloak",
+          "teraType": "Water",
+          "moves": [
+            "Seed Bomb",
+            "Sucker Punch",
+            "Spore",
+            "Rage Powder"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Power Herb",
+          "teraType": "Water",
+          "moves": [
+            "Moongeist Beam",
+            "Meteor Beam",
+            "Wide Guard",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Ursaluna",
+          "item": "Flame Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Headlong Rush",
+            "Facade",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Chi-Yu",
+          "item": "Choice Scarf",
+          "teraType": "Ghost",
+          "moves": [
+            "Dark Pulse",
+            "Heat Wave",
+            "Overheat",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Koraidon",
+          "item": "Life Orb",
+          "teraType": "Fire",
+          "moves": [
+            "Close Combat",
+            "Flare Blitz",
+            "Flame Charge",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Stellar",
+          "moves": [
+            "Shadow Ball",
+            "Moonblast",
+            "Icy Wind",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6190,
+      "team": [
+        {
+          "name": "Lunala",
+          "item": "Power Herb",
+          "teraType": "Fairy",
+          "moves": [
+            "Moongeist Beam",
+            "Meteor Beam",
+            "Wide Guard",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Groudon",
+          "item": "Assault Vest",
+          "teraType": "Fire",
+          "moves": [
+            "Precipice Blades",
+            "Heat Crash",
+            "High Horsepower",
+            "Rock Slide"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Safety Goggles",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Thunderclap",
+            "Draco Meteor",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Hisuian Lilligant",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Close Combat",
+            "Sleep Powder",
+            "Coaching",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Steel",
+          "moves": [
+            "Spirit Break",
+            "Foul Play",
+            "Reflect",
+            "Light Screen"
+          ]
+        },
+        {
+          "name": "Gouging Fire",
+          "item": "Clear Amulet",
+          "teraType": "Grass",
+          "moves": [
+            "Flare Blitz",
+            "Breaking Swipe",
+            "Burning Bulwark",
+            "Howl"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4470,
+      "team": [
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Focus Sash",
+          "teraType": "Water",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "Detect"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Sitrus Berry",
+          "teraType": "Water",
+          "moves": [
+            "Spore",
+            "Rage Powder",
+            "Pollen Puff",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "Fake Out",
+            "Knock Off",
+            "Flare Blitz",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Scarf",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "item": "Electric Seed",
+          "teraType": "Water",
+          "moves": [
+            "Psychic",
+            "Foul Play",
+            "Trick Room",
+            "Helping Hand"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fairy",
+          "moves": [
+            "Glacial Lance",
+            "Leech Seed",
+            "Protect",
+            "Trick Room"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4461,
+      "team": [
+        {
+          "name": "Koraidon",
+          "item": "Loaded Dice",
+          "teraType": "Fire",
+          "moves": [
+            "Flare Blitz",
+            "Protect",
+            "Collision Course",
+            "Scale Shot"
+          ]
+        },
+        {
+          "name": "Iron Treads",
+          "item": "Life Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Iron Head",
+            "Knock Off",
+            "High Horsepower",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Will-O-Wisp",
+            "Fake Out",
+            "Parting Shot",
+            "Knock Off"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Assault Vest",
+          "teraType": "Fairy",
+          "moves": [
+            "Thunderclap",
+            "Snarl",
+            "Electroweb",
+            "Draco Meteor"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Normal",
+          "moves": [
+            "Moonblast",
+            "Icy Wind",
+            "Taunt",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ho-Oh",
+          "item": "Clear Amulet",
+          "teraType": "Water",
+          "moves": [
+            "Sacred Fire",
+            "Brave Bird",
+            "Tailwind",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6201,
+      "team": [
+        {
+          "name": "Venusaur",
+          "item": "Focus Sash",
+          "teraType": "Water",
+          "moves": [
+            "Grass Knot",
+            "Sludge Bomb",
+            "Sleep Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Power Herb",
+          "teraType": "Fairy",
+          "moves": [
+            "Moongeist Beam",
+            "Expanding Force",
+            "Meteor Beam",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Koraidon",
+          "item": "Life Orb",
+          "teraType": "Fire",
+          "moves": [
+            "Flare Blitz",
+            "Close Combat",
+            "Flame Charge",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Female Indeedee",
+          "item": "Safety Goggles",
+          "teraType": "Fairy",
+          "moves": [
+            "Dazzling Gleam",
+            "Helping Hand",
+            "Follow Me",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "item": "Assault Vest",
+          "teraType": "Fire",
+          "moves": [
+            "Kowtow Cleave",
+            "Iron Head",
+            "Sucker Punch",
+            "Low Kick"
+          ]
+        },
+        {
+          "name": "Landorus Therian",
+          "item": "Choice Scarf",
+          "teraType": "Rock",
+          "moves": [
+            "Stomping Tantrum",
+            "Rock Slide",
+            "Crunch",
+            "U-turn"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4454,
+      "team": [
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Encore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Booster Energy",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Thunderclap",
+            "Dragon Pulse",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Spore",
+            "Sludge Bomb",
+            "Rage Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Dragonite",
+          "item": "Choice Band",
+          "teraType": "Normal",
+          "moves": [
+            "Extreme Speed",
+            "Low Kick",
+            "Aqua Jet",
+            "Outrage"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Assault Vest",
+          "teraType": "Poison",
+          "moves": [
+            "Ice Spinner",
+            "Sucker Punch",
+            "Ruination",
+            "Icy Wind"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6177,
+      "team": [
+        {
+          "name": "Raging Bolt",
+          "item": "Booster Energy",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Thunderclap",
+            "Dragon Pulse",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Encore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Sludge Bomb",
+            "Spore",
+            "Rage Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Dragonite",
+          "item": "Choice Band",
+          "teraType": "Normal",
+          "moves": [
+            "Extreme Speed",
+            "Low Kick",
+            "Outrage",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Assault Vest",
+          "teraType": "Poison",
+          "moves": [
+            "Icy Wind",
+            "Sucker Punch",
+            "Ruination",
+            "Ice Spinner"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6189,
+      "team": [
+        {
+          "name": "Zacian",
+          "item": "Rusted Sword",
+          "teraType": "Ground",
+          "moves": [
+            "Play Rough",
+            "Iron Head",
+            "Tera Blast",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Choice Scarf",
+          "teraType": "Water",
+          "moves": [
+            "Water Spout",
+            "Origin Pulse",
+            "Ice Beam",
+            "Tera Blast"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Grass",
+          "moves": [
+            "Fake Out",
+            "Knock Off",
+            "Will-O-Wisp",
+            "Parting Shot"
+          ]
+        },
+        {
+          "name": "Tsareena",
+          "item": "Loaded Dice",
+          "teraType": "Fire",
+          "moves": [
+            "Triple Axel",
+            "Bullet Seed",
+            "Taunt",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Raichu",
+          "item": "Assault Vest",
+          "teraType": "Fairy",
+          "moves": [
+            "Fake Out",
+            "Feint",
+            "Nuzzle",
+            "Volt Switch"
+          ]
+        },
+        {
+          "name": "Poliwag",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Icy Wind",
+            "Encore",
+            "Protect",
+            "Endeavor"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4487,
+      "team": [
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fire",
+          "moves": [
+            "Protect",
+            "Trick Room",
+            "Glacial Lance",
+            "Leech Seed"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Assault Vest",
+          "teraType": "Electric",
+          "moves": [
+            "Draco Meteor",
+            "Electro Drift",
+            "Snarl",
+            "Volt Switch"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Fake Out",
+            "Knock Off",
+            "Parting Shot",
+            "Taunt"
+          ]
+        },
+        {
+          "name": "Volcarona",
+          "item": "Electric Seed",
+          "teraType": "Fire",
+          "moves": [
+            "Struggle Bug",
+            "Quiver Dance",
+            "Protect",
+            "Flamethrower"
+          ]
+        },
+        {
+          "name": "Wellspring Mask Ogerpon",
+          "item": "Wellspring Mask",
+          "teraType": "Water",
+          "moves": [
+            "Spiky Shield",
+            "Ivy Cudgel",
+            "Horn Leech",
+            "Follow Me"
+          ]
+        },
+        {
+          "name": "Annihilape",
+          "item": "Choice Scarf",
+          "teraType": "Dark",
+          "moves": [
+            "Shadow Claw",
+            "U-turn",
+            "Final Gambit",
+            "Close Combat"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6207,
+      "team": [
+        {
+          "name": "Kyogre",
+          "item": "Mystic Water",
+          "teraType": "Water",
+          "moves": [
+            "Protect",
+            "Water Spout",
+            "Origin Pulse",
+            "Water Pulse"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Scarf",
+          "teraType": "Water",
+          "moves": [
+            "U-turn",
+            "Close Combat",
+            "Surging Strikes",
+            "Coaching"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Sitrus Berry",
+          "teraType": "Water",
+          "moves": [
+            "Pollen Puff",
+            "Protect",
+            "Spore",
+            "Rage Powder"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fairy",
+          "moves": [
+            "Protect",
+            "Glacial Lance",
+            "High Horsepower",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Focus Sash",
+          "teraType": "Stellar",
+          "moves": [
+            "Protect",
+            "Ice Spinner",
+            "Sucker Punch",
+            "Sacred Sword"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Fake Out",
+            "U-turn",
+            "Grassy Glide",
+            "Wood Hammer"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4317,
+      "team": [
+        {
+          "name": "Tornadus",
+          "item": "Sharp Beak",
+          "teraType": "Dragon",
+          "moves": [
+            "Bleakwind Storm",
+            "Taunt",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Smeargle",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Spore",
+            "Decorate",
+            "Follow Me",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Dark",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Booster Energy",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Draco Meteor",
+            "Thunderclap",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Grass",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Fire",
+          "moves": [
+            "Wood Hammer",
+            "U-turn",
+            "Grassy Glide",
+            "Fake Out"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6156,
+      "team": [
+        {
+          "name": "Iron Jugulis",
+          "item": "Booster Energy",
+          "teraType": "Poison",
+          "moves": [
+            "Snarl",
+            "Protect",
+            "Tailwind",
+            "Hurricane"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Grass",
+          "moves": [
+            "Wide Guard",
+            "Protect",
+            "Body Press",
+            "Heavy Slam"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Fire",
+          "moves": [
+            "Spore",
+            "Rage Powder",
+            "Protect",
+            "Pollen Puff"
+          ]
+        },
+        {
+          "name": "Landorus",
+          "item": "Life Orb",
+          "teraType": "Water",
+          "moves": [
+            "Sandsear Storm",
+            "Protect",
+            "Sludge Bomb",
+            "Earth Power"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Mystic Water",
+          "teraType": "Grass",
+          "moves": [
+            "Hydro Pump",
+            "Origin Pulse",
+            "Water Spout",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Ice Spinner",
+            "Protect",
+            "Icy Wind",
+            "Sucker Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6218,
+      "team": [
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Dazzling Gleam",
+            "Volt Switch"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Ghost",
+          "moves": [
+            "Fake Out",
+            "Knock Off",
+            "Will-O-Wisp",
+            "Parting Shot"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "item": "Electric Seed",
+          "teraType": "Water",
+          "moves": [
+            "Psychic Noise",
+            "Foul Play",
+            "Helping Hand",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Water",
+          "moves": [
+            "Glacial Lance",
+            "Close Combat",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Iron Valiant",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Spirit Break",
+            "Taunt",
+            "Coaching",
+            "Wide Guard"
+          ]
+        },
+        {
+          "name": "Landorus",
+          "item": "Life Orb",
+          "teraType": "Water",
+          "moves": [
+            "Earth Power",
+            "Sludge Bomb",
+            "Sandsear Storm",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6195,
+      "team": [
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Fire",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Light Screen",
+            "Encore"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Band",
+          "teraType": "Grass",
+          "moves": [
+            "Close Combat",
+            "Surging Strikes",
+            "U-turn",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Volt Switch",
+            "Dazzling Gleam",
+            "Electro Drift",
+            "Draco Meteor"
+          ]
+        },
+        {
+          "name": "Ursaluna",
+          "item": "Flame Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Headlong Rush",
+            "Facade",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Ghost",
+          "moves": [
+            "Knock Off",
+            "Flare Blitz",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Electric Seed",
+          "teraType": "Fairy",
+          "moves": [
+            "Moongeist Beam",
+            "Moonblast",
+            "Trick Room",
+            "Wide Guard"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6212,
+      "team": [
+        {
+          "name": "Landorus",
+          "item": "Life Orb",
+          "teraType": "Poison",
+          "moves": [
+            "Protect",
+            "Taunt",
+            "Sludge Bomb",
+            "Earth Power"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Leftovers",
+          "teraType": "Fairy",
+          "moves": [
+            "Protect",
+            "Trick Room",
+            "Leech Seed",
+            "Glacial Lance"
+          ]
+        },
+        {
+          "name": "Volcarona",
+          "item": "Rocky Helmet",
+          "teraType": "Dark",
+          "moves": [
+            "Protect",
+            "Will-O-Wisp",
+            "Rage Powder",
+            "Struggle Bug"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Ghost",
+          "moves": [
+            "Foul Play",
+            "Thunder Wave",
+            "Reflect",
+            "Light Screen"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Assault Vest",
+          "teraType": "Electric",
+          "moves": [
+            "Dragon Pulse",
+            "Dazzling Gleam",
+            "Electro Drift",
+            "Parabolic Charge"
+          ]
+        },
+        {
+          "name": "Chesnaught",
+          "item": "Electric Seed",
+          "teraType": "Fire",
+          "moves": [
+            "Body Press",
+            "Wide Guard",
+            "Leech Seed",
+            "Spiky Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6200,
+      "team": [
+        {
+          "name": "Chien-Pao",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Icicle Crash",
+            "Crunch",
+            "Sucker Punch",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Volcarona",
+          "item": "Leftovers",
+          "teraType": "Dragon",
+          "moves": [
+            "Flamethrower",
+            "Protect",
+            "Struggle Bug",
+            "Quiver Dance"
+          ]
+        },
+        {
+          "name": "Iron Hands",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Fake Out",
+            "Drain Punch",
+            "Low Kick",
+            "Wild Charge"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Water",
+          "moves": [
+            "Protect",
+            "Wide Guard",
+            "Body Press",
+            "Heavy Slam"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Volt Switch",
+            "Dazzling Gleam",
+            "Electro Drift",
+            "Draco Meteor"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Ghost",
+          "moves": [
+            "Spirit Break",
+            "Reflect",
+            "Light Screen",
+            "Thunder Wave"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4467,
+      "team": [
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Band",
+          "teraType": "Ghost",
+          "moves": [
+            "Close Combat",
+            "Surging Strikes",
+            "Aqua Jet",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Ice Spinner",
+            "Sucker Punch",
+            "Taunt",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Booster Energy",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Thunderclap",
+            "Dragon Pulse",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Dark",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Substitute",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Dark",
+          "moves": [
+            "Moonblast",
+            "Encore",
+            "Fake Tears",
+            "Tailwind"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 3340,
+      "team": [
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Pollen Puff",
+            "Will-O-Wisp",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Cornerstone Mask Ogerpon",
+          "item": "Cornerstone Mask",
+          "teraType": "Rock",
+          "moves": [
+            "Ivy Cudgel",
+            "Knock Off",
+            "Follow Me",
+            "Spiky Shield"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Bug",
+          "moves": [
+            "Knock Off",
+            "Fake Out",
+            "Parting Shot",
+            "Will-O-Wisp"
+          ]
+        },
+        {
+          "name": "Terapagos",
+          "item": "Leftovers",
+          "teraType": "Stellar",
+          "moves": [
+            "Tera Starstorm",
+            "Earth Power",
+            "Calm Mind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Booster Energy",
+          "teraType": "Dark",
+          "moves": [
+            "Moonblast",
+            "Icy Wind",
+            "Taunt",
+            "Thunder Wave"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4312,
+      "team": [
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Water",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Light Screen",
+            "Encore"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Band",
+          "teraType": "Ghost",
+          "moves": [
+            "Surging Strikes",
+            "U-turn",
+            "Aqua Jet",
+            "Close Combat"
+          ]
+        },
+        {
+          "name": "Ursaluna",
+          "item": "Flame Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Facade",
+            "Headlong Rush",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Electro Drift",
+            "Volt Switch",
+            "Draco Meteor",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Electric Seed",
+          "teraType": "Fairy",
+          "moves": [
+            "Trick Room",
+            "Moonblast",
+            "Wide Guard",
+            "Moongeist Beam"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "U-turn",
+            "Knock Off",
+            "Flare Blitz",
+            "Fake Out"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6179,
+      "team": [
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Ghost",
+          "moves": [
+            "Spirit Break",
+            "Thunder Wave",
+            "Reflect",
+            "Light Screen"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Assault Vest",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Volt Switch",
+            "Draco Meteor",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Leftovers",
+          "teraType": "Fire",
+          "moves": [
+            "Glacial Lance",
+            "Leech Seed",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ditto",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Transform",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Grass",
+          "moves": [
+            "Flare Blitz",
+            "Knock Off",
+            "Parting Shot",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Annihilape",
+          "item": "Choice Scarf",
+          "teraType": "Dark",
+          "moves": [
+            "Final Gambit",
+            "Close Combat",
+            "Shadow Claw",
+            "Coaching"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6132,
+      "team": [
+        {
+          "name": "Raging Bolt",
+          "item": "Life Orb",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Draco Meteor",
+            "Thunderclap",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Heavy Slam",
+            "Body Press",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Sludge Bomb",
+            "Spore",
+            "Rage Powder",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Dragonite",
+          "item": "Choice Band",
+          "teraType": "Normal",
+          "moves": [
+            "Extreme Speed",
+            "Low Kick",
+            "Outrage",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Encore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Assault Vest",
+          "teraType": "Ghost",
+          "moves": [
+            "Ice Spinner",
+            "Ruination",
+            "Sucker Punch",
+            "Icy Wind"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6142,
+      "team": [
+        {
+          "name": "Rillaboom",
+          "item": "Miracle Seed",
+          "teraType": "Fire",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Shadow Ball",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Fire",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Encore",
+            "Light Screen"
+          ]
+        },
+        {
+          "name": "Kingambit",
+          "item": "Assault Vest",
+          "teraType": "Ghost",
+          "moves": [
+            "Kowtow Cleave",
+            "Iron Head",
+            "Sucker Punch",
+            "Low Kick"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Grass",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Protect",
+            "Wide Guard"
+          ]
+        },
+        {
+          "name": "Walking Wake",
+          "item": "Booster Energy",
+          "teraType": "Grass",
+          "moves": [
+            "Hydro Steam",
+            "Draco Meteor",
+            "Aqua Jet",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6138,
+      "team": [
+        {
+          "name": "Terapagos",
+          "item": "Choice Specs",
+          "teraType": "Stellar",
+          "moves": [
+            "Tera Starstorm",
+            "Earth Power",
+            "Dark Pulse",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Water",
+          "moves": [
+            "Tailwind",
+            "Moonblast",
+            "Fake Tears",
+            "Encore"
+          ]
+        },
+        {
+          "name": "Iron Hands",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Drain Punch",
+            "Wild Charge",
+            "Low Kick",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Smeargle",
+          "item": "Focus Sash",
+          "teraType": "Grass",
+          "moves": [
+            "Follow Me",
+            "Decorate",
+            "Fake Out",
+            "Spore"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Dark",
+          "moves": [
+            "Psychic",
+            "Astral Barrage",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Chi-Yu",
+          "item": "Choice Scarf",
+          "teraType": "Ghost",
+          "moves": [
+            "Overheat",
+            "Heat Wave",
+            "Snarl",
+            "Dark Pulse"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6204,
+      "team": [
+        {
+          "name": "Raging Bolt",
+          "item": "Magnet",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderclap",
+            "Thunderbolt",
+            "Protect",
+            "Dragon Pulse"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Iron Head",
+            "Protect",
+            "Wide Guard"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Assault Vest",
+          "teraType": "Poison",
+          "moves": [
+            "Icy Wind",
+            "Ice Spinner",
+            "Ruination",
+            "Sucker Punch"
+          ]
+        },
+        {
+          "name": "Dragonite",
+          "item": "Choice Band",
+          "teraType": "Normal",
+          "moves": [
+            "Outrage",
+            "Extreme Speed",
+            "Low Kick",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Protect",
+            "Psychic",
+            "Astral Barrage",
+            "Encore"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Protect",
+            "Sludge Bomb",
+            "Rage Powder",
+            "Spore"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6215,
+      "team": [
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Band",
+          "teraType": "Grass",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Dazzling Gleam",
+            "Draco Meteor",
+            "Volt Switch"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Bug",
+          "moves": [
+            "Knock Off",
+            "Fake Out",
+            "Will-O-Wisp",
+            "Parting Shot"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Electric Seed",
+          "teraType": "Fairy",
+          "moves": [
+            "Moongeist Beam",
+            "Trick Room",
+            "Moonblast",
+            "Wide Guard"
+          ]
+        },
+        {
+          "name": "Ursaluna",
+          "item": "Flame Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Headlong Rush",
+            "Facade",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Water",
+          "moves": [
+            "Moonblast",
+            "Encore",
+            "Light Screen",
+            "Tailwind"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6214,
+      "team": [
+        {
+          "name": "Female Indeedee",
+          "item": "Safety Goggles",
+          "teraType": "Fairy",
+          "moves": [
+            "Follow Me",
+            "Trick Room",
+            "Alluring Voice",
+            "Helping Hand"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Power Herb",
+          "teraType": "Grass",
+          "moves": [
+            "Moongeist Beam",
+            "Meteor Beam",
+            "Trick Room",
+            "Expanding Force"
+          ]
+        },
+        {
+          "name": "Single Strike Urshifu",
+          "item": "Choice Band",
+          "teraType": "Grass",
+          "moves": [
+            "Close Combat",
+            "Sucker Punch",
+            "U-turn",
+            "Wicked Blow"
+          ]
+        },
+        {
+          "name": "Smeargle",
+          "item": "Focus Sash",
+          "teraType": "Grass",
+          "moves": [
+            "Fake Out",
+            "Spore",
+            "Decorate",
+            "Follow Me"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fire",
+          "moves": [
+            "Glacial Lance",
+            "High Horsepower",
+            "Protect",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Torkoal",
+          "item": "Choice Specs",
+          "teraType": "Fire",
+          "moves": [
+            "Weather Ball",
+            "Earth Power",
+            "Solar Beam",
+            "Eruption"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6211,
+      "team": [
+        {
+          "name": "Roaring Moon",
+          "item": "Booster Energy",
+          "teraType": "Flying",
+          "moves": [
+            "Knock Off",
+            "Acrobatics",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Mystic Water",
+          "teraType": "Grass",
+          "moves": [
+            "Origin Pulse",
+            "Hydro Pump",
+            "Water Spout",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Clear Smog",
+            "Rage Powder",
+            "Spore",
+            "Pollen Puff"
+          ]
+        },
+        {
+          "name": "Iron Hands",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "Fake Out",
+            "Drain Punch",
+            "Low Kick",
+            "Wild Charge"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Ice Spinner",
+            "Ruination",
+            "Sucker Punch",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Ghost",
+          "moves": [
+            "Iron Defense",
+            "Iron Head",
+            "Body Press",
+            "Wide Guard"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6160,
+      "team": [
+        {
+          "name": "Iron Moth",
+          "item": "Booster Energy",
+          "teraType": "Dark",
+          "moves": [
+            "Flamethrower",
+            "Pounce",
+            "Toxic Spikes",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Iron Hands",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wild Charge",
+            "Drain Punch",
+            "Fake Out",
+            "Low Kick"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Leftovers",
+          "teraType": "Fairy",
+          "moves": [
+            "Glacial Lance",
+            "Leech Seed",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Focus Sash",
+          "teraType": "Stellar",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "Aqua Jet",
+            "Detect"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Ghost",
+          "moves": [
+            "Reflect",
+            "Spirit Break",
+            "Light Screen",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Volt Switch",
+            "Draco Meteor",
+            "Dazzling Gleam",
+            "Electro Drift"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6146,
+      "team": [
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Fire",
+          "moves": [
+            "Spore",
+            "Rage Powder",
+            "Pollen Puff",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Ice Spinner",
+            "Crunch",
+            "Sucker Punch",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Grass",
+          "moves": [
+            "Body Press",
+            "Iron Head",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Ditto",
+          "item": "Choice Scarf",
+          "teraType": "Ghost",
+          "moves": [
+            "Transform",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "name": "Roaring Moon",
+          "item": "Booster Energy",
+          "teraType": "Flying",
+          "moves": [
+            "Acrobatics",
+            "Knock Off",
+            "Tailwind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Splash Plate",
+          "teraType": "Grass",
+          "moves": [
+            "Water Spout",
+            "Origin Pulse",
+            "Hydro Pump",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4486,
+      "team": [
+        {
+          "name": "Volcarona",
+          "item": "Electric Seed",
+          "teraType": "Grass",
+          "moves": [
+            "Quiver Dance",
+            "Protect",
+            "Giga Drain",
+            "Fiery Dance"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fairy",
+          "moves": [
+            "Protect",
+            "Trick Room",
+            "Glacial Lance",
+            "Leech Seed"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Knock Off",
+            "U-turn",
+            "Flare Blitz",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Scarf",
+          "teraType": "Electric",
+          "moves": [
+            "Volt Switch",
+            "Snarl",
+            "Draco Meteor",
+            "Electro Drift"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Focus Sash",
+          "teraType": "Stellar",
+          "moves": [
+            "Surging Strikes",
+            "Aqua Jet",
+            "Close Combat",
+            "Detect"
+          ]
+        },
+        {
+          "name": "Cornerstone Mask Ogerpon",
+          "item": "Cornerstone Mask",
+          "teraType": "Rock",
+          "moves": [
+            "Ivy Cudgel",
+            "Power Whip",
+            "Spiky Shield",
+            "Follow Me"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4321,
+      "team": [
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Wellspring Mask Ogerpon",
+          "item": "Wellspring Mask",
+          "teraType": "Water",
+          "moves": [
+            "Ivy Cudgel",
+            "Taunt",
+            "Spiky Shield",
+            "Follow Me"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Bug",
+          "moves": [
+            "Knock Off",
+            "Will-O-Wisp",
+            "Parting Shot",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Scarf",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Ghost",
+          "moves": [
+            "Spirit Break",
+            "Reflect",
+            "Light Screen",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Leftovers",
+          "teraType": "Fairy",
+          "moves": [
+            "Moongeist Beam",
+            "Moonblast",
+            "Calm Mind",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4476,
+      "team": [
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Fake Out",
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Smeargle",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Fake Out",
+            "Spore",
+            "Follow Me",
+            "Spiky Shield"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Booster Energy",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Dragon Pulse",
+            "Thunderclap",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Dark",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Hearthflame Mask Ogerpon",
+          "item": "Hearthflame Mask",
+          "teraType": "Fire",
+          "moves": [
+            "Ivy Cudgel",
+            "Spiky Shield",
+            "Follow Me",
+            "Helping Hand"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4329,
+      "team": [
+        {
+          "name": "Brute Bonnet",
+          "item": "Sitrus Berry",
+          "teraType": "Water",
+          "moves": [
+            "Seed Bomb",
+            "Sucker Punch",
+            "Spore",
+            "Rage Powder"
+          ]
+        },
+        {
+          "name": "Lunala",
+          "item": "Power Herb",
+          "teraType": "Water",
+          "moves": [
+            "Moongeist Beam",
+            "Meteor Beam",
+            "Wide Guard",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Ursaluna",
+          "item": "Flame Orb",
+          "teraType": "Ghost",
+          "moves": [
+            "Headlong Rush",
+            "Facade",
+            "Earthquake",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Chi-Yu",
+          "item": "Choice Scarf",
+          "teraType": "Ghost",
+          "moves": [
+            "Dark Pulse",
+            "Heat Wave",
+            "Overheat",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Koraidon",
+          "item": "Life Orb",
+          "teraType": "Fire",
+          "moves": [
+            "Close Combat",
+            "Flare Blitz",
+            "Flame Charge",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Stellar",
+          "moves": [
+            "Shadow Ball",
+            "Moonblast",
+            "Icy Wind",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6196,
+      "team": [
+        {
+          "name": "Dragonite",
+          "item": "Choice Band",
+          "teraType": "Normal",
+          "moves": [
+            "Extreme Speed",
+            "Outrage",
+            "Low Kick",
+            "Aqua Jet"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Encore",
+            "Psychic",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Heavy Slam",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Life Orb",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderclap",
+            "Protect",
+            "Thunderbolt",
+            "Draco Meteor"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Spore",
+            "Protect",
+            "Rage Powder",
+            "Sludge Bomb"
+          ]
+        },
+        {
+          "name": "Chien-Pao",
+          "item": "Assault Vest",
+          "teraType": "Ghost",
+          "moves": [
+            "Ice Spinner",
+            "Ruination",
+            "Icy Wind",
+            "Sucker Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6197,
+      "team": [
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Leftovers",
+          "teraType": "Fairy",
+          "moves": [
+            "Glacial Lance",
+            "Protect",
+            "Leech Seed",
+            "Trick Room"
+          ]
+        },
+        {
+          "name": "Amoonguss",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Rage Powder",
+            "Spore",
+            "Pollen Puff",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Landorus",
+          "item": "Life Orb",
+          "teraType": "Water",
+          "moves": [
+            "Earth Power",
+            "Sludge Bomb",
+            "Sandsear Storm",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Grass",
+          "moves": [
+            "Fake Out",
+            "Knock Off",
+            "Flare Blitz",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Mystic Water",
+          "teraType": "Grass",
+          "moves": [
+            "Water Spout",
+            "Hydro Pump",
+            "Protect",
+            "Thunder"
+          ]
+        },
+        {
+          "name": "Smeargle",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Fake Out",
+            "Spore",
+            "Follow Me",
+            "Decorate"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6130,
+      "team": [
+        {
+          "name": "Farigiraf",
+          "item": "Electric Seed",
+          "teraType": "Water",
+          "moves": [
+            "Foul Play",
+            "Helping Hand",
+            "Trick Room",
+            "Roar"
+          ]
+        },
+        {
+          "name": "Cornerstone Mask Ogerpon",
+          "item": "Cornerstone Mask",
+          "teraType": "Rock",
+          "moves": [
+            "Ivy Cudgel",
+            "Power Whip",
+            "Follow Me",
+            "Spiky Shield"
+          ]
+        },
+        {
+          "name": "Iron Hands",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Fake Out",
+            "Wild Charge",
+            "Drain Punch",
+            "Low Kick"
+          ]
+        },
+        {
+          "name": "Ice Rider Calyrex",
+          "item": "Clear Amulet",
+          "teraType": "Fairy",
+          "moves": [
+            "Glacial Lance",
+            "High Horsepower",
+            "Trick Room",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Iron Bundle",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Freeze-Dry",
+            "Encore",
+            "Icy Wind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Life Orb",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6158,
+      "team": [
+        {
+          "name": "Iron Jugulis",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Protect",
+            "Tailwind",
+            "Dark Pulse",
+            "Hurricane"
+          ]
+        },
+        {
+          "name": "Farigiraf",
+          "item": "Electric Seed",
+          "teraType": "Water",
+          "moves": [
+            "Psychic",
+            "Helping Hand",
+            "Trick Room",
+            "Foul Play"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Specs",
+          "teraType": "Fairy",
+          "moves": [
+            "Electro Drift",
+            "Volt Switch",
+            "Draco Meteor",
+            "Dazzling Gleam"
+          ]
+        },
+        {
+          "name": "Kyogre",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "Water Spout",
+            "Ice Beam",
+            "Thunder",
+            "Origin Pulse"
+          ]
+        },
+        {
+          "name": "Overqwil",
+          "item": "Life Orb",
+          "teraType": "Poison",
+          "moves": [
+            "Protect",
+            "Gunk Shot",
+            "Crunch",
+            "Taunt"
+          ]
+        },
+        {
+          "name": "Iron Treads",
+          "item": "Choice Band",
+          "teraType": "Fighting",
+          "moves": [
+            "High Horsepower",
+            "Tera Blast",
+            "Earthquake",
+            "Steel Roller"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4464,
+      "team": [
+        {
+          "name": "Clefairy",
+          "item": "Eviolite",
+          "teraType": "Grass",
+          "moves": [
+            "Follow Me",
+            "Helping Hand",
+            "Life Dew",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Covert Cloak",
+          "teraType": "Fairy",
+          "moves": [
+            "Astral Barrage",
+            "Draining Kiss",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Volcarona",
+          "item": "Electric Seed",
+          "teraType": "Fire",
+          "moves": [
+            "Flamethrower",
+            "Struggle Bug",
+            "Quiver Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Scarf",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Volt Switch",
+            "Snarl",
+            "Draco Meteor"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Safety Goggles",
+          "teraType": "Water",
+          "moves": [
+            "Roar",
+            "Knock Off",
+            "Parting Shot",
+            "Fake Out"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6126,
+      "team": [
+        {
+          "name": "Incineroar",
+          "item": "Assault Vest",
+          "teraType": "Bug",
+          "moves": [
+            "Knock Off",
+            "Flare Blitz",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Landorus",
+          "item": "Life Orb",
+          "teraType": "Water",
+          "moves": [
+            "Earth Power",
+            "Sludge Bomb",
+            "Substitute",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Disable",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Whimsicott",
+          "item": "Covert Cloak",
+          "teraType": "Fire",
+          "moves": [
+            "Moonblast",
+            "Tailwind",
+            "Protect",
+            "Encore"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Dragon",
+          "moves": [
+            "Body Press",
+            "Wide Guard",
+            "Protect",
+            "Heavy Slam"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Mystic Water",
+          "teraType": "Water",
+          "moves": [
+            "Surging Strikes",
+            "Taunt",
+            "Aqua Jet",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4457,
+      "team": [
+        {
+          "name": "Koraidon",
+          "item": "Clear Amulet",
+          "teraType": "Fire",
+          "moves": [
+            "Flare Blitz",
+            "Low Kick",
+            "Flame Charge",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Flutter Mane",
+          "item": "Focus Sash",
+          "teraType": "Normal",
+          "moves": [
+            "Moonblast",
+            "Protect",
+            "Icy Wind",
+            "Shadow Ball"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Water",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "Fake Out",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Safety Goggles",
+          "teraType": "Water",
+          "moves": [
+            "Helping Hand",
+            "Flare Blitz",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Clefairy",
+          "item": "Eviolite",
+          "teraType": "Ground",
+          "moves": [
+            "Follow Me",
+            "Helping Hand",
+            "Encore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Dark",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Nasty Plot",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4490,
+      "team": [
+        {
+          "name": "Chi-Yu",
+          "item": "Choice Scarf",
+          "teraType": "Ground",
+          "moves": [
+            "Snarl",
+            "Overheat",
+            "Ruination",
+            "Heat Wave"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Focus Sash",
+          "teraType": "Ghost",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Encore",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Cornerstone Mask Ogerpon",
+          "item": "Cornerstone Mask",
+          "teraType": "Rock",
+          "moves": [
+            "Ivy Cudgel",
+            "Power Whip",
+            "Follow Me",
+            "Spiky Shield"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Fire",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Zamazenta",
+          "item": "Rusted Shield",
+          "teraType": "Water",
+          "moves": [
+            "Body Press",
+            "Iron Head",
+            "Wide Guard",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Raging Bolt",
+          "item": "Magnet",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Dragon Pulse",
+            "Thunderclap",
+            "Protect"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4316,
+      "team": [
+        {
+          "name": "Terapagos",
+          "item": "Electric Seed",
+          "teraType": "Stellar",
+          "moves": [
+            "Tera Starstorm",
+            "Earth Power",
+            "Calm Mind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Assault Vest",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Scarf",
+          "teraType": "Water",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "U-turn",
+            "Rain Dance"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Water",
+          "moves": [
+            "Flare Blitz",
+            "Knock Off",
+            "Parting Shot",
+            "Fake Out"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "item": "Focus Sash",
+          "teraType": "Fire",
+          "moves": [
+            "Shadow Ball",
+            "Rage Powder",
+            "Strength Sap",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Iron Treads",
+          "item": "Choice Band",
+          "teraType": "Bug",
+          "moves": [
+            "High Horsepower",
+            "Iron Head",
+            "Ice Spinner",
+            "Steel Roller"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 6120,
+      "team": [
+        {
+          "name": "Cornerstone Mask Ogerpon",
+          "item": "Cornerstone Mask",
+          "teraType": "Rock",
+          "moves": [
+            "Spiky Shield",
+            "Ivy Cudgel",
+            "Wood Hammer",
+            "Follow Me"
+          ]
+        },
+        {
+          "name": "Rapid Strike Urshifu",
+          "item": "Choice Scarf",
+          "teraType": "Water",
+          "moves": [
+            "Surging Strikes",
+            "Close Combat",
+            "Rain Dance",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Terapagos",
+          "item": "Electric Seed",
+          "teraType": "Stellar",
+          "moves": [
+            "Protect",
+            "Tera Starstorm",
+            "Earth Power",
+            "Calm Mind"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Assault Vest",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Volt Switch",
+            "Snarl"
+          ]
+        },
+        {
+          "name": "Sinistcha",
+          "item": "Focus Sash",
+          "teraType": "Fairy",
+          "moves": [
+            "Protect",
+            "Shadow Ball",
+            "Rage Powder",
+            "Strength Sap"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Rocky Helmet",
+          "teraType": "Bug",
+          "moves": [
+            "Flare Blitz",
+            "Knock Off",
+            "Parting Shot",
+            "Fake Out"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4492,
+      "team": [
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Fire",
+          "moves": [
+            "Drum Beating",
+            "Grassy Glide",
+            "Fake Out",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Safety Goggles",
+          "teraType": "Water",
+          "moves": [
+            "Knock Off",
+            "Taunt",
+            "Fake Out",
+            "Parting Shot"
+          ]
+        },
+        {
+          "name": "Clefairy",
+          "item": "Eviolite",
+          "teraType": "Grass",
+          "moves": [
+            "Follow Me",
+            "Helping Hand",
+            "Life Dew",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Covert Cloak",
+          "teraType": "Fairy",
+          "moves": [
+            "Astral Barrage",
+            "Draining Kiss",
+            "Calm Mind",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Grimmsnarl",
+          "item": "Light Clay",
+          "teraType": "Ghost",
+          "moves": [
+            "Spirit Break",
+            "Thunder Wave",
+            "Reflect",
+            "Light Screen"
+          ]
+        },
+        {
+          "name": "Miraidon",
+          "item": "Choice Scarf",
+          "teraType": "Electric",
+          "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Snarl",
+            "Volt Switch"
+          ]
+        }
+      ]
+    },
+    {
+      "teamId": 4460,
+      "team": [
+        {
+          "name": "Shadow Rider Calyrex",
+          "item": "Life Orb",
+          "teraType": "Dark",
+          "moves": [
+            "Astral Barrage",
+            "Psychic",
+            "Nasty Plot",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Rillaboom",
+          "item": "Assault Vest",
+          "teraType": "Fire",
+          "moves": [
+            "Wood Hammer",
+            "Grassy Glide",
+            "Fake Out",
+            "U-turn"
+          ]
+        },
+        {
+          "name": "Volcarona",
+          "item": "Leftovers",
+          "teraType": "Water",
+          "moves": [
+            "Fiery Dance",
+            "Giga Drain",
+            "Quiver Dance",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Koraidon",
+          "item": "Clear Amulet",
+          "teraType": "Fire",
+          "moves": [
+            "Flare Blitz",
+            "Collision Course",
+            "Flame Charge",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Regieleki",
+          "item": "Focus Sash",
+          "teraType": "Electric",
+          "moves": [
+            "Thunderbolt",
+            "Electroweb",
+            "Volt Switch",
+            "Protect"
+          ]
+        },
+        {
+          "name": "Incineroar",
+          "item": "Safety Goggles",
+          "teraType": "Bug",
+          "moves": [
+            "Knock Off",
+            "Roar",
+            "Fake Out",
+            "Parting Shot"
+          ]
+        }
+      ]
+    }
+  ]
+}

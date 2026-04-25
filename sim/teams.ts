@@ -352,7 +352,7 @@ export const Teams = new class Teams {
 	}
 
 	/** Will not entirely recover a packed name, but will be a pretty readable guess */
-	unpackName(name: string, dexTable?: { get: (name: string) => AnyObject }) {
+	unpackName(name: string, dexTable?: { get: (name: string) => AnyObject; }) {
 		if (!name) return '';
 		if (dexTable) {
 			const obj = dexTable.get(name);
@@ -587,7 +587,7 @@ export const Teams = new class Teams {
 					}
 				}
 				return team;
-			} catch {}
+			} catch { }
 		}
 
 		const lines = buffer.split("\n");
@@ -635,6 +635,8 @@ export const Teams = new class Teams {
 			TeamGenerator = require(`../data/mods/gen9ssb/random-teams`).default;
 		} else if (mod === 'afd') {
 			TeamGenerator = require(`../data/mods/afd/random-teams`).default;
+		} else if (format.team === 'randomBalanced') {
+			TeamGenerator = require(`../data/random-battles/gen9balancedrandoms/teams`).default;
 		} else if (formatID.includes('gen9babyrandombattle')) {
 			TeamGenerator = require(`../data/random-battles/gen9baby/teams`).default;
 		} else if (formatID.includes('gen9randombattle') && format.ruleTable?.has('+pokemontag:cap')) {

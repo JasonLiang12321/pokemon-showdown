@@ -33,7 +33,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		bestOfDefault: true,
 		ruleset: ['PotD', 'Obtainable', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Illusion Level Mod'],
 	},
-	
+
 	{
 		name: "[Gen 9] Unrated Random Battle",
 		mod: 'gen9',
@@ -172,11 +172,20 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 9] Random VGC Battle",
 		desc: `Randomized teams of Pok&eacute;mon with sets that are generated to be competitively viable, following VGC rules.`,
-		mod:'gen9',
-		team:'random',
+		mod: 'gen9',
+		team: 'random',
 		bestOfDefault: true,
 		gameType: 'doubles',
-		ruleset: ['Flat Rules', '!! Adjust Level = 50', 'Min Source Gen = 9', 'VGC Timer', 'Open Team Sheets']
+		ruleset: ['Flat Rules', 'Min Source Gen = 9', 'VGC Timer', 'Force Open Team Sheets']
+	},
+	{
+		name: "[Gen 9] Random Competitive VGC Battle",
+		desc: `Randomized teams of Pok&eacute;mon with sets that are generated to be competitively viable, following VGC rules.`,
+		mod: 'gen9',
+		team: 'randomBalanced',
+		bestOfDefault: true,
+		gameType: 'doubles',
+		ruleset: ['Flat Rules', 'Min Source Gen = 9', 'VGC Timer', 'Force Open Team Sheets']
 	},
 	{
 		name: "[Gen 9] Random Doubles Battle",
@@ -453,7 +462,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	{
 		name: "[Gen 9] Draft",
 		mod: 'gen9',
-		searchShow: false,
 		teraPreviewDefault: true,
 		ruleset: ['Standard Draft', 'Min Source Gen = 9'],
 	},
@@ -473,6 +481,16 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		bestOfDefault: true,
 		teraPreviewDefault: true,
 		ruleset: ['Standard Draft', 'Item Clause = 1', 'VGC Timer', '!Sleep Clause Mod', '!OHKO Clause', '!Evasion Clause', 'Adjust Level = 50', 'Picked Team Size = 4', 'Min Source Gen = 9'],
+	},
+	{
+		name: "[Gen 9] VGC Triple Draft",
+		mod: 'gen9',
+		gameType: 'doubles',
+		searchShow: false,
+		tournamentShow: false,
+		desc: `Players draft 6 Pokémon simultaneously over 3 rounds (2 picks per round), then battle 4v4 Doubles with Open Team Sheets.`,
+		ruleset: ['Obtainable', 'Team Preview', 'Species Clause', 'Nickname Clause', 'Item Clause = 1', 'Adjust Level Down = 50', 'Picked Team Size = 4', 'Cancel Mod', 'Open Team Sheets', 'VGC Timer', 'Min Source Gen = 9'],
+		banlist: ['Mythical', 'Restricted Legendary', 'Greninja-Bond'],
 	},
 	{
 		name: "[Gen 9] NatDex Draft",
@@ -1288,7 +1306,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 				if (this.ruleTable.isBanned(`item:${i.id}`)) return [`${set.species}'s item ${i.name} is banned.`];
 			}
 
-			const setHas: { [k: string]: true } = {};
+			const setHas: { [k: string]: true; } = {};
 			for (const thing of [...moves, ...items, ...abilities]) {
 				if (setHas[thing.id]) return [`${set.species} has multiple copies of ${thing.name}.`];
 				setHas[thing.id] = true;
@@ -1357,7 +1375,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 				}
 			}
 			if (pokemon.hasItem('abilityshield') ||
-				pokemon.m.scrambled.items.some((e: { thing: string }) => this.toID(e.thing) === 'abilityshield')) {
+				pokemon.m.scrambled.items.some((e: { thing: string; }) => this.toID(e.thing) === 'abilityshield')) {
 				ngas = false;
 			}
 			for (const ability of pokemon.m.scrambled.abilities) {
@@ -1373,15 +1391,15 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 				pokemon.volatiles[effect].inSlot = item.inSlot;
 			}
 			if (ngas) {
-				if ((pokemon.m.scrambled.moves as { inSlot: string }[]).findIndex(e => e.inSlot === 'Ability') >= 0) {
-					const isMove = (pokemon.m.scrambled.moves as { inSlot: string }[]).findIndex(e => e.inSlot === 'Ability');
+				if ((pokemon.m.scrambled.moves as { inSlot: string; }[]).findIndex(e => e.inSlot === 'Ability') >= 0) {
+					const isMove = (pokemon.m.scrambled.moves as { inSlot: string; }[]).findIndex(e => e.inSlot === 'Ability');
 					const indexOfMove = pokemon.moveSlots.findIndex(m => this.toID(pokemon.m.scrambled.moves[isMove].thing) === m.id);
 					if (indexOfMove >= 0) pokemon.moveSlots.splice(indexOfMove, 1);
 				}
 			}
 			if (this.field.getPseudoWeather('magicroom')) {
-				if ((pokemon.m.scrambled.moves as { inSlot: string }[]).findIndex(e => e.inSlot === 'Item') >= 0) {
-					const isMove = (pokemon.m.scrambled.moves as { inSlot: string }[]).findIndex(e => e.inSlot === 'Item');
+				if ((pokemon.m.scrambled.moves as { inSlot: string; }[]).findIndex(e => e.inSlot === 'Item') >= 0) {
+					const isMove = (pokemon.m.scrambled.moves as { inSlot: string; }[]).findIndex(e => e.inSlot === 'Item');
 					const indexOfMove = pokemon.moveSlots.findIndex(m => this.toID(pokemon.m.scrambled.moves[isMove].thing) === m.id);
 					if (indexOfMove >= 0) pokemon.moveSlots.splice(indexOfMove, 1);
 				}
@@ -1931,7 +1949,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		onValidateTeam(team, f, teamHas) {
 			if (this.ruleTable.has('abilityclause')) {
 				const abilityTable = new this.dex.Multiset<string>();
-				const base: { [k: string]: string } = {
+				const base: { [k: string]: string; } = {
 					airlock: 'cloudnine',
 					armortail: 'queenlymajesty',
 					battlearmor: 'shellarmor',
@@ -2357,8 +2375,8 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 				move.flags['protect'] = 1;
 				move.category = species.baseStats['spa'] > species.baseStats['atk'] ? 'Special' :
 					species.baseStats['spa'] < species.baseStats['atk'] ? 'Physical' :
-					pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true) ? 'Physical' :
-					'Special';
+						pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true) ? 'Physical' :
+							'Special';
 				move.onAfterHit = function (t, s, m) {
 					if (s.getAbility().name === species.abilities['0']) return;
 					const effect = 'ability:' + this.toID(species.abilities['0']);
@@ -4126,7 +4144,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		desc: `Randomized teams of Pok&eacute;mon for a generated Smogon tier with sets that are competitively viable.`,
 		mod: 'gen8',
 		team: 'randomFactory',
-		searchShow: false,
 		bestOfDefault: true,
 		ruleset: ['Standard', 'Dynamax Clause'],
 		onBegin() {
